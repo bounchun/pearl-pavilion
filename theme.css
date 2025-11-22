@@ -1,0 +1,74 @@
+
+.hero {
+  padding: 4rem 0 3rem;
+}
+
+.hero-inner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2.5rem;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hero-kicker {
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  color: #f3e7d9;
+  margin-bottom: 0.75rem;
+}
+
+.hero-title {
+  font-size: clamp(2.3rem, 4vw, 3rem);
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  margin-bottom: 0.75rem;
+}
+
+.hero-subtitle.one-line {
+  color: var(--text-muted);
+  max-width: 32rem;
+  margin-bottom: 1.5rem;
+}
+
+
+.hero-bg {
+  position: relative;
+  background-image: url('images/Decor.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 5px 5px; 
+}
+
+/* DARK OVERLAY */
+.hero-bg::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45); 
+  backdrop-filter: brightness(0.7);
+  z-index: 1;
+}
+
+/* Bring text ABOVE overlay */
+.hero-bg * {
+  position: relative;
+  z-index: 2;
+  color: #ffffff; 
+}
+
+.section-kicker {
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.2em;
+  color: var(--accent-gold-soft);
+  margin-bottom: 0.3rem;
+}
+
+.section-title {
+  font-size: 1.25rem;
+}
+
+.lead { color: var(--text-muted); max-width: 40rem; }

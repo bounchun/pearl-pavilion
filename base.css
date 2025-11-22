@@ -1,0 +1,23 @@
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: "Segoe UI", system-ui, sans-serif;
+  background: #050509;
+  color: #f5ecdd;
+  line-height: 1.6;
+}
+
+:root {
+  --bg-main: #050509;
+  --bg-elevated: #11111b;
+  --bg-soft: #191927;
+  --accent-gold: #d4af37;
+  --accent-gold-soft: #b8962f;
+  --accent-red: #8b001c;
+  --text-main: #f5ecdd;
+  --text-muted: #b4a698;
+  --border-subtle: #2a2a3b;
+}
