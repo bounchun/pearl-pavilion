@@ -46,7 +46,7 @@ Step 3. Make sure the `images/` folder is present
 
 The images are required for the hero banner, gallery, and menu sections.
 
-# Optional: Modify the content
+ *Optional: Modify the content*
 •	Update text (menu descriptions, FAQ answers, contact information)
 •	Replace or add images
 •	Adjust colors or themes in the CSS files
@@ -82,7 +82,7 @@ Contributions can be made by:
 •	Restaurant staff providing updated menu or contact information
 •	Collaborators I choose to invite
 
-# I’m choosing not to use the watermarked images for aesthetic reasons. Please note that only one image (Decor.jpg) was generated with AI.
+*I’m choosing not to use the watermarked images for aesthetic reasons. Please note that only one image (Decor.jpg) was generated with AI.
 
 -Images References: 
 
