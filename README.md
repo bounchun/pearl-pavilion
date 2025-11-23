@@ -18,7 +18,7 @@ It includes:
 •	Gallery page with photos and hover effects
 •	FAQ page using expandable questions
 •	Contact page with reservation form
-•	A multi-file CSS architecture:
+• A multi-file CSS architecture:
 - `base.css` — Reset, base typography, root colors  
 - `layout.css` — Grids, wrappers, spacing, flexbox
 - `theme.css` — Hero, color accents, typography sections  
