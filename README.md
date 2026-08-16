@@ -50,7 +50,7 @@ The images are required for the hero banner, gallery, and menu sections.
 
 Step 4. Deploy the website
 You should make the repository public before uploading it to GitHub Pages.
-Ex : https://bounchun.github.io/pearl-pavilion/
+- https://bounchun.github.io/pearl-pavilion/
 
 -Reference:
 Deploying your website using Github Pages
