@@ -51,6 +51,7 @@ The images are required for the hero banner, gallery, and menu sections.
 Step 4. Deploy the website
 You should make the repository public before uploading it to GitHub Pages.
 Ex : https://bounchun.github.io/pearl-pavilion/
+
 -Reference:
 Deploying your website using Github Pages
 https://www.youtube.com/watch?v=hkwIrb-4DfU
@@ -60,10 +61,10 @@ https://www.youtube.com/watch?v=hkwIrb-4DfU
 Users can get help by:
 - Reviewing  the HTML structure for each page
 - Contacting the project creator (Boun Chun) for any questions
-•	Using common web development resources such as:
-o	MDN Web Docs (https://developer.mozilla.org)
-o	W3Schools (https://www.w3schools.com)
-o	Stack Overflow (https://stackoverflow.com)
+- Using common web development resources such as:
+- MDN Web Docs (https://developer.mozilla.org)
+- W3Schools (https://www.w3schools.com)
+- Stack Overflow (https://stackoverflow.com)
 
 If the project is published on GitHub, users can also open issues or join discussions in the repository.
 
