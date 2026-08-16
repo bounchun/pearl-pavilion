@@ -2,17 +2,18 @@
 # Pearl-Pavilion
 Asian Fine Dining Restaurant
 
-## What the project does: 
+## Project Overview: 
 
 This project is a multi-page website for Pearl Pavilion, an Asian fine-dining restaurant.
-It includes:
-•	Homepage featuring a welcome introduction and a seasonal event
--Hero banners with background imagery and dark-overlay styling
-•	About page with story and philosophy
-•	Menu page with categorized dishes & drinks arranged in a dynamic grid
-•	Gallery page with photos and hover effects
-•	FAQ page using expandable questions
-•	Contact page with reservation form
+
+### Pages
+- **Homepage** — Welcome intro, seasonal event highlight, hero banner with dark-overlay styling
+- **About** — Restaurant story and philosophy
+- **Menu** — Categorized dishes & drinks in a dynamic grid
+- **Gallery** — Photo grid with hover effects
+- **FAQ** — Expandable question/answer sections
+- **Contact** — Reservation form
+
 • A multi-file CSS architecture:
 - `base.css` — Reset, base typography, root colors  
 - `layout.css` — Grids, wrappers, spacing, flexbox
@@ -20,7 +21,7 @@ It includes:
  - `components.css` — Cards, nav, forms, gallery items, footer
 The website provides visitors with all essential restaurant information in a modern, elegant, and user-friendly layout.
 
-## Why the project is useful:
+## Key Benefits:
 
 The project is useful because it:
 •	Helps restaurant customers find key information quickly
@@ -28,7 +29,7 @@ The project is useful because it:
 •	Highlights  the restaurant’s brand and food through design, images, and structure
 •	Provides a well-organized multi-CSS structure that is easy to maintain and expand
 
-## How users can get started with the project:
+## Quick Start:
 
 Step1. Download the project files
 All HTML and CSS files are included in a clear folder structure.
@@ -65,7 +66,7 @@ o	Stack Overflow (https://stackoverflow.com)
 
 If the project is published on GitHub, users can also open issues or join discussions in the repository.
 
-## Who maintains and contributes to the project:
+## Authors & Contributors:
   
 The project is maintained by:
 Boun Chun — the developer and designer of the Pearl Pavilion website.
