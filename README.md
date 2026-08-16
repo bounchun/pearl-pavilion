@@ -19,15 +19,16 @@ This project is a multi-page website for Pearl Pavilion, an Asian fine-dining re
 - `layout.css` — Grids, wrappers, spacing, flexbox
 - `theme.css` — Hero, color accents, typography sections  
  - `components.css` — Cards, nav, forms, gallery items, footer
+   
 The website provides visitors with all essential restaurant information in a modern, elegant, and user-friendly layout.
 
 ## Key Benefits:
 
 The project is useful because it:
-•	Helps restaurant customers find key information quickly
-•	Delivers clear navigation and accessibility across all pages
-•	Highlights  the restaurant’s brand and food through design, images, and structure
-•	Provides a well-organized multi-CSS structure that is easy to maintain and expand
+- Helps restaurant customers find key information quickly
+- Delivers clear navigation and accessibility across all pages
+- Highlights  the restaurant’s brand and food through design, images, and structure
+- Provides a well-organized multi-CSS structure that is easy to maintain and expand
 
 ## Quick Start:
 
@@ -43,9 +44,9 @@ Step 3. Make sure the `images/` folder is present
 The images are required for the hero banner, gallery, and menu sections.
 
  *Optional: Modify the content*
-•	Update text (menu descriptions, FAQ answers, contact information)
-•	Replace or add images
-•	Adjust colors or themes in the CSS files
+- Update text (menu descriptions, FAQ answers, contact information)
+- Replace or add images
+- Adjust colors or themes in the CSS files
 
 Step 4. Deploy the website
 You should make the repository public before uploading it to GitHub Pages.
@@ -57,8 +58,8 @@ https://www.youtube.com/watch?v=hkwIrb-4DfU
 ## Where users can get help with the project:
 
 Users can get help by:
-•	Reviewing  the HTML structure for each page
-•	Contacting the project creator (Boun Chun) for any questions
+- Reviewing  the HTML structure for each page
+- Contacting the project creator (Boun Chun) for any questions
 •	Using common web development resources such as:
 o	MDN Web Docs (https://developer.mozilla.org)
 o	W3Schools (https://www.w3schools.com)
@@ -78,7 +79,8 @@ Contributions can be made by:
 •	Restaurant staff providing updated menu or contact information
 •	Collaborators I choose to invite
 
-*I’m choosing not to use the watermarked images for aesthetic reasons. Please note that only one image (Decor.jpg) was generated with AI.
+*I’m choosing not to use the watermarked images for aesthetic reasons. 
+*Please note that only one image (Decor.jpg) was generated with AI.
 
 -Images References: 
 
