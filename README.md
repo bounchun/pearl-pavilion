@@ -18,7 +18,7 @@ This project is a multi-page website for Pearl Pavilion, an Asian fine-dining re
 - `base.css` — Reset, base typography, root colors  
 - `layout.css` — Grids, wrappers, spacing, flexbox
 - `theme.css` — Hero, color accents, typography sections  
- - `components.css` — Cards, nav, forms, gallery items, footer
+- `components.css` — Cards, nav, forms, gallery items, footer
    
 The website provides visitors with all essential restaurant information in a modern, elegant, and user-friendly layout.
 
@@ -74,13 +74,13 @@ Boun Chun — the developer and designer of the Pearl Pavilion website.
 
 Contributions can be made by:
 
-•	Developers who want to expand features (such as forms, booking systems)
-•	Designers adding new images 
-•	Restaurant staff providing updated menu or contact information
-•	Collaborators I choose to invite
+- Developers who want to expand features (such as forms, booking systems)
+- Designers adding new images 
+- Restaurant staff providing updated menu or contact information
+- Collaborators I choose to invite
 
 *I’m choosing not to use the watermarked images for aesthetic reasons. 
-*Please note that only one image (Decor.jpg) was generated with AI.
+Please note that only one image (Decor.jpg) was generated with AI.
 
 -Images References: 
 
