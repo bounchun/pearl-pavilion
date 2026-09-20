@@ -1,5 +1,5 @@
 
-# Pearl-Pavilion
+# 🍽️ Pearl-Pavilion
 Asian Fine Dining Restaurant
 
 ## Project Overview: 
